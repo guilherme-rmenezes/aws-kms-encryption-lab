@@ -113,9 +113,3 @@ After encryption:
 - CloudTrail auditing
 - Cloud security best practices
 
----
-
-## Author
-
-Guilherme Menezes  
-Cloud & Cybersecurity Student
